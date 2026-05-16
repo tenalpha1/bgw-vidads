@@ -1,1 +1,8 @@
-
+{
+  "name": "bgw-vidads",
+  "version": "1.0.0",
+  "description": "BGW VidAds - Video Ad Creation Platform",
+  "dependencies": {
+    "stripe": "^14.0.0"
+  }
+}
